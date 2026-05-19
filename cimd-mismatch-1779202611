@@ -1,0 +1,8 @@
+{
+  "client_id": "https://raw.githubusercontent.com/jffrose/cimd-ptt-validation/main/cimd-mismatch-1779202611-different",
+  "client_name": "PTT CIMD Mismatch Client",
+  "client_uri": "https://raw.githubusercontent.com/jffrose/cimd-ptt-validation",
+  "redirect_uris": [
+    "https://raw.githubusercontent.com/jffrose/cimd-ptt-validation/main/oauth/callback-1779202611"
+  ]
+}

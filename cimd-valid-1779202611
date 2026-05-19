@@ -1,0 +1,9 @@
+{
+  "client_id": "https://raw.githubusercontent.com/jffrose/cimd-ptt-validation/main/cimd-valid-1779202611",
+  "client_name": "PTT CIMD Validation Client",
+  "client_uri": "https://raw.githubusercontent.com/jffrose/cimd-ptt-validation",
+  "redirect_uris": [
+    "https://raw.githubusercontent.com/jffrose/cimd-ptt-validation/main/oauth/callback-1779202611"
+  ],
+  "token_endpoint_auth_method": "none"
+}
